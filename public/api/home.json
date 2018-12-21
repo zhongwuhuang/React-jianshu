@@ -1,0 +1,58 @@
+{
+  "success":true,
+  "data":{
+    "topicList": [
+      {
+        "id":1,
+        "title":"社会热点",
+        "imgUrl":"https://upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id":2,
+        "title":"自然科普",
+        "imgUrl":"https://upload.jianshu.io/collections/images/14/6249340_194140034135_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id":3,
+        "title":"读书",
+        "imgUrl":"https://upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      }
+    ],
+    "articleList": [
+      {
+        "id":1,
+        "title":"他靠拆迁发家称霸东北，玩女星抢民女了！",
+        "desc":"80年代的哈尔滨，正迎来改革开放的大潮，为了发展的需要，很多地方都要进行拆迁，不少开发商因此暴富。在这之前，乔四还是个建筑工人，在工地当泥瓦工。...",
+        "imgUrl":"https://upload-images.jianshu.io/upload_images/12631447-702207d72df72072?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id":2,
+        "title":"【虐】一世繁华",
+        "desc":"东华知道自己与凤九的前世后，明白了自己以前做的一切是错到了离谱！也知道，自己的九儿，是多么的勇敢…… 三万年，时间不长也不断，但是对于东华帝君而...",
+        "imgUrl":"https://upload-images.jianshu.io/upload_images/2510559-7aef87790edab431.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      }
+    ],
+    "recommendList": [
+      {
+        "id":1,
+        "imgUrl": "imgs/1.png"
+      },
+      {
+        "id":2,
+        "imgUrl": "imgs/2.png"
+      },
+      {
+        "id":3,
+        "imgUrl": "imgs/3.png"
+      },
+      {
+        "id":4,
+        "imgUrl": "imgs/4.png"
+      },
+      {
+        "id":5,
+        "imgUrl": "imgs/5.png"
+      }
+    ]   
+  }
+}
